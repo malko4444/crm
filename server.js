@@ -19,3 +19,6 @@ fruits.set("apple", "red");
 fruits.set("apple", "green");
 console.log(fruits.get("apple"));
 
+
+// changes added
+console.log("This is a new change added to the code.");
